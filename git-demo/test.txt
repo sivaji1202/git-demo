@@ -1,0 +1,7 @@
+hi i am sivaji
+i have 4 yers experiance
+curruntly i work for tcs hi bro
+as a devops engineer
+coming to my day to day activitys 
+when we get tha clint reqirment as for clint reqiremnt we will use some automation tools like git,jenkins,ansible,docker,puppet,chef and biuld tools 
+we will create our own ami's and evry day we will take backups and crate file systems and truboolshut everyday
